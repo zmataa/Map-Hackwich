@@ -29,22 +29,9 @@
 		169ECDEF2D5119D400AF3BA7 /* Map HackwichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Map HackwichUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		169ECE052D511F0300AF3BA7 /* Exceptions for "Map Hackwich" folder in "Map Hackwich" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"Map-Hackwich-Info.plist",
-			);
-			target = 169ECDD42D5119D200AF3BA7 /* Map Hackwich */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		169ECDD72D5119D200AF3BA7 /* Map Hackwich */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				169ECE052D511F0300AF3BA7 /* Exceptions for "Map Hackwich" folder in "Map Hackwich" target */,
-			);
 			path = "Map Hackwich";
 			sourceTree = "<group>";
 		};
