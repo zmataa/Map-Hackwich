@@ -399,8 +399,6 @@
 				DEVELOPMENT_TEAM = P2TQUSUDZ6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Map-Hackwich-Info.plist";
-				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app requires the use of Location Services app requires the useof";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -430,8 +428,6 @@
 				DEVELOPMENT_TEAM = P2TQUSUDZ6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Map-Hackwich-Info.plist";
-				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app requires the use of Location Services app requires the useof";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
